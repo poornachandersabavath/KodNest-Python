@@ -1,1 +1,2 @@
-#write you code here
+# write your code here
+print("Hello World")
